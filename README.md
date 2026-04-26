@@ -1,7 +1,7 @@
-#  <img src="https://res.cloudinary.com/djoebsejh/image/upload/v1721187808/srktgdcijec0zqmlgvbh.png" alt="Finvest Logo" width="30" /> **Finvest: Blockchain Crowdfunding Platform**  
+#  <img src="https://res.cloudinary.com/djoebsejh/image/upload/v1721187808/srktgdcijec0zqmlgvbh.png" alt="Finvest Logo" width="30" /> **Pharovest: Blockchain Crowdfunding Platform**  
 
 ##  **Overview**
-Finvest is a blockchain-powered platform designed to support **startups, NGOs, charities**, and other initiatives. With **milestone-based fund allocation**, **Ethereum transactions**, and **AI-powered project management**, Finvest ensures a transparent, secure, and modern crowdfunding experience. 
+pharovest is a blockchain-powered platform designed to support **startups, NGOs, charities**, and other initiatives. With **milestone-based fund allocation**, **Ethereum transactions**, and **AI-powered project management**, Finvest ensures a transparent, secure, and modern crowdfunding experience. 
 
 ##  **Features**
 - **Milestone-based Funding**: Release funds only when project milestones are achieved.
@@ -28,13 +28,13 @@ Finvest is a blockchain-powered platform designed to support **startups, NGOs, c
 - **Wallet Integration**: [RainbowKit](https://rainbowkit.com), [WalletConnect](https://walletconnect.com)
 
 ##  **Deployment Details**
-- **Live Application**: [Finvest Live](https://finvest-2.vercel.app)
+- **Live Application**: https://pharovest.garcade.in/
 - **Smart Contract Address**: `0x0cd118073a8ff6026ae465621664b277e32e2843`
 - **Network**: Ethereum Mainnet
-- **Demo Vido Link**: https://drive.google.com/file/d/1UY5Dg9_JiU7y9lR9tbbAefoYGpvIXZiD/view?usp=drive_link
+
 ##  **Quick Start**
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/username/finvest.git
+   git clone https://github.com/username/pharovest.git
    cd finvest
