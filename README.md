@@ -12,7 +12,7 @@ pharovest is a blockchain-powered platform designed to support **startups, NGOs,
 -  **Wallet Integration**: Seamless Ethereum wallet connection using **RainbowKit** and **WalletConnect**.
 
 ##  **Smart Contract**
-**Contract Address**: `0x0cd118073a8ff6026ae465621664b277e32e2843`
+**Contract Address**:  `0x0cd118073a8ff6026ae465621664b277e32e2843`
 
 ###  **Core Functionalities**
 - **Project Creation**: Start new projects with detailed goals and milestones.
