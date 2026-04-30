@@ -35,6 +35,6 @@ pharovest is a blockchain-powered platform designed to support **startups, NGOs,
 ##  **Quick Start**
 
 1. **Clone the repository**  
-   ```bash
+   ```bash...
    git clone https://github.com/username/pharovest.git
    cd finvest
