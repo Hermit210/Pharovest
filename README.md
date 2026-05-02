@@ -1,6 +1,6 @@
 #  <img src="https://res.cloudinary.com/djoebsejh/image/upload/v1721187808/srktgdcijec0zqmlgvbh.png" alt="Finvest Logo" width="30" /> **Pharovest: Blockchain Crowdfunding Platform**  
 
-##  **Overview**
+##  **Overview**             
 pharovest is a blockchain-powered platform designed to support **startups, NGOs, charities**, and other initiatives. With **milestone-based fund allocation**, **Ethereum transactions**, and  **AI-powered project management**, Finvest ensures a transparent, secure, and modern crowdfunding experience... 
 
 ##  **Features**
